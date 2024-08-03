@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a0ff37588c024da2a6990fdba224f06a/artifacts
+end_time: 1722714427553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0ff37588c024da2a6990fdba224f06a
+run_name: bald-penguin-648
+run_uuid: a0ff37588c024da2a6990fdba224f06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722714378895
+status: 3
+tags: []
+user_id: lucas

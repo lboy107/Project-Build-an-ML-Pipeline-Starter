@@ -1,0 +1,357 @@
+2024-08-03 10:53:38,110 INFO    StreamThr :14124 [internal.py:wandb_internal():87] W&B internal server running at pid: 14124, started at: 2024-08-03 10:53:38.109984
+2024-08-03 10:53:38,114 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status
+2024-08-03 10:53:38,116 INFO    WriterThread:14124 [datastore.py:open_for_write():85] open: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/run-542scwqd.wandb
+2024-08-03 10:53:38,117 DEBUG   SenderThread:14124 [sender.py:send():334] send: header
+2024-08-03 10:53:38,258 DEBUG   SenderThread:14124 [sender.py:send():334] send: run
+2024-08-03 10:53:38,650 INFO    SenderThread:14124 [dir_watcher.py:__init__():216] watching files in: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files
+2024-08-03 10:53:38,650 INFO    SenderThread:14124 [sender.py:_start_run_threads():1065] run started: 542scwqd with start time 1722696818.108818
+2024-08-03 10:53:38,650 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: summary_record
+2024-08-03 10:53:38,650 INFO    SenderThread:14124 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-08-03 10:53:38,653 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: check_version
+2024-08-03 10:53:38,653 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: check_version
+2024-08-03 10:53:38,793 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: run_start
+2024-08-03 10:53:38,800 ERROR   HandlerThread:14124 [gpu.py:is_available():351] Error initializing NVML: Not Supported
+2024-08-03 10:53:38,800 DEBUG   HandlerThread:14124 [system_info.py:__init__():31] System info init
+2024-08-03 10:53:38,801 DEBUG   HandlerThread:14124 [system_info.py:__init__():46] System info init done
+2024-08-03 10:53:38,801 INFO    HandlerThread:14124 [system_monitor.py:start():151] Starting system monitor
+2024-08-03 10:53:38,801 INFO    SystemMonitor:14124 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-08-03 10:53:38,802 INFO    HandlerThread:14124 [system_monitor.py:probe():172] Collecting system info
+2024-08-03 10:53:38,804 INFO    SystemMonitor:14124 [interfaces.py:start():168] Started cpu
+2024-08-03 10:53:38,810 INFO    SystemMonitor:14124 [interfaces.py:start():168] Started disk
+2024-08-03 10:53:38,810 INFO    SystemMonitor:14124 [interfaces.py:start():168] Started memory
+2024-08-03 10:53:38,812 INFO    SystemMonitor:14124 [interfaces.py:start():168] Started network
+2024-08-03 10:53:38,820 DEBUG   HandlerThread:14124 [system_info.py:probe():195] Probing system
+2024-08-03 10:53:38,913 DEBUG   HandlerThread:14124 [system_info.py:_probe_git():180] Probing git
+2024-08-03 10:53:38,931 DEBUG   HandlerThread:14124 [system_info.py:_probe_git():188] Probing git done
+2024-08-03 10:53:38,931 DEBUG   HandlerThread:14124 [system_info.py:probe():241] Probing system done
+2024-08-03 10:53:38,931 DEBUG   HandlerThread:14124 [system_monitor.py:probe():181] {'os': 'Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.9.15', 'heartbeatAt': '2024-08-03T14:53:38.820584', 'startedAt': '2024-08-03T14:53:38.096625', 'docker': None, 'cuda': None, 'args': None, 'state': 'running', 'program': 'eda.ipynb', 'root': '/home/lucas/Project-Build-an-ML-Pipeline-Starter', 'git': {'remote': 'https://github.com/lboy107/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'host': 'DESKTOP-E71BQ95', 'username': 'lucas', 'executable': '/home/lucas/miniconda3/envs/nyc_airbnb_dev/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2304.0, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}, {'current': 2304.0, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 15.342041015625}, 'memory': {'total': 15.48470687866211}}
+2024-08-03 10:53:38,931 INFO    HandlerThread:14124 [system_monitor.py:probe():182] Finished collecting system info
+2024-08-03 10:53:38,931 INFO    HandlerThread:14124 [system_monitor.py:probe():185] Publishing system info
+2024-08-03 10:53:38,931 DEBUG   HandlerThread:14124 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-08-03 10:53:38,932 DEBUG   HandlerThread:14124 [system_info.py:_save_pip():67] Saving pip packages done
+2024-08-03 10:53:38,932 DEBUG   HandlerThread:14124 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-08-03 10:53:39,651 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-summary.json
+2024-08-03 10:53:39,651 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/conda-environment.yaml
+2024-08-03 10:53:39,652 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/requirements.txt
+2024-08-03 10:53:41,651 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/conda-environment.yaml
+2024-08-03 10:53:41,702 DEBUG   HandlerThread:14124 [system_info.py:_save_conda():86] Saving conda packages done
+2024-08-03 10:53:41,702 DEBUG   HandlerThread:14124 [system_info.py:_save_code():89] Saving code
+2024-08-03 10:53:41,702 WARNING HandlerThread:14124 [system_info.py:_save_code():91] unable to save code -- program entry not found
+2024-08-03 10:53:41,702 DEBUG   HandlerThread:14124 [system_info.py:_save_patches():127] Saving git patches
+2024-08-03 10:53:41,726 DEBUG   HandlerThread:14124 [system_info.py:_save_patches():169] Saving git patches done
+2024-08-03 10:53:41,727 INFO    HandlerThread:14124 [system_monitor.py:probe():187] Finished publishing system info
+2024-08-03 10:53:41,729 DEBUG   SenderThread:14124 [sender.py:send():334] send: files
+2024-08-03 10:53:41,729 INFO    SenderThread:14124 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-08-03 10:53:41,729 INFO    SenderThread:14124 [sender.py:_save_file():1319] saving file diff.patch with policy now
+2024-08-03 10:53:41,748 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: stop_status
+2024-08-03 10:53:41,749 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: stop_status
+2024-08-03 10:53:41,987 DEBUG   SenderThread:14124 [sender.py:send():334] send: telemetry
+2024-08-03 10:53:42,178 INFO    Thread-16 :14124 [upload_job.py:push():143] Uploaded file /tmp/tmp47lizhm0wandb/r6jr1dcn-diff.patch
+2024-08-03 10:53:42,634 INFO    Thread-15 :14124 [upload_job.py:push():143] Uploaded file /tmp/tmp47lizhm0wandb/x7do8njw-wandb-metadata.json
+2024-08-03 10:53:42,652 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-metadata.json
+2024-08-03 10:53:42,652 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/diff.patch
+2024-08-03 10:53:42,961 DEBUG   SenderThread:14124 [sender.py:send():334] send: use_artifact
+2024-08-03 10:53:43,543 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:53:43,653 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_created():275] file/dir created: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/output.log
+2024-08-03 10:53:45,656 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/output.log
+2024-08-03 10:53:48,546 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:53:53,548 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:53:56,749 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:53:58,550 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:01,752 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:03,553 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:06,754 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:08,561 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:09,671 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/config.yaml
+2024-08-03 10:54:11,757 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:13,847 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:16,758 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:18,849 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:21,759 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:23,850 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:26,761 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:28,851 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:31,763 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:33,853 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:36,765 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:38,813 DEBUG   SystemMonitor:14124 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-08-03 10:54:38,815 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:54:39,816 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:41,767 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:44,819 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:46,769 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:49,821 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:51,772 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:54,823 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:54:56,774 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:54:59,825 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:01,775 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:04,826 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:06,776 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:08,816 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:55:10,818 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:11,781 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:15,820 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:16,780 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:20,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:21,784 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:25,824 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:26,785 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:30,826 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:31,788 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:35,829 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:36,790 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:38,817 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:55:41,792 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:41,819 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:46,794 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:46,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:51,796 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:51,824 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:55:56,799 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:55:56,827 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:01,801 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:01,830 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:06,803 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:06,832 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:08,818 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:56:11,806 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:12,820 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:16,808 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:17,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:21,810 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:22,824 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:26,812 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:27,827 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:31,815 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:32,830 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:36,817 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:37,832 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:38,819 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:56:41,820 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:43,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:46,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:48,825 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:51,824 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:53,827 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:56:56,826 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:56:58,828 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:01,839 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:03,837 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:06,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:08,821 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:57:09,822 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:11,833 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:14,825 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:16,835 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:19,828 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:21,838 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:24,830 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:26,840 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:29,833 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:31,842 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:34,836 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:36,845 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:38,822 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:57:40,824 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:41,847 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:45,826 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:46,849 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:50,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:51,852 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:57:55,834 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:57:56,854 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:00,836 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:01,857 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:05,839 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:06,859 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:08,823 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:58:11,825 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:11,861 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:16,827 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:16,863 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:21,829 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:21,866 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:26,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:26,868 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:31,834 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:31,870 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:36,836 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:36,873 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:38,824 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:58:41,875 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:42,827 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:46,877 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:47,830 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:51,879 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:52,832 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:58:56,882 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:58:57,835 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:01,884 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:02,839 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:06,887 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:07,841 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:08,826 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:59:11,889 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:13,828 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:16,892 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:18,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:21,896 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:23,833 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:26,898 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:28,836 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:31,901 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:33,839 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:36,903 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:38,827 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 10:59:39,829 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:41,905 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:44,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:46,908 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:49,833 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:51,910 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:54,840 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 10:59:56,912 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 10:59:59,841 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:01,914 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:04,844 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:06,916 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:08,829 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 11:00:10,831 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:11,919 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:15,833 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:16,921 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:20,835 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:21,923 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:25,838 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:26,925 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:30,839 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:31,927 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:35,841 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:36,929 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:38,830 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 11:00:41,834 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:41,931 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: keepalive
+2024-08-03 11:00:43,810 DEBUG   SenderThread:14124 [sender.py:send():334] send: exit
+2024-08-03 11:00:43,810 INFO    SenderThread:14124 [sender.py:send_exit():557] handling exit code: 0
+2024-08-03 11:00:43,810 INFO    SenderThread:14124 [sender.py:send_exit():559] handling runtime: 425
+2024-08-03 11:00:43,811 INFO    SenderThread:14124 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-08-03 11:00:43,812 INFO    SenderThread:14124 [sender.py:send_exit():565] send defer
+2024-08-03 11:00:43,812 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,813 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 0
+2024-08-03 11:00:43,814 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,814 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-08-03 11:00:43,814 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 1
+2024-08-03 11:00:43,815 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,815 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 1
+2024-08-03 11:00:43,816 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,816 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-08-03 11:00:43,816 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 2
+2024-08-03 11:00:43,817 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,817 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 2
+2024-08-03 11:00:43,817 INFO    HandlerThread:14124 [system_monitor.py:finish():161] Stopping system monitor
+2024-08-03 11:00:43,819 DEBUG   SystemMonitor:14124 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-08-03 11:00:43,820 DEBUG   SystemMonitor:14124 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-08-03 11:00:43,823 INFO    HandlerThread:14124 [interfaces.py:finish():175] Joined cpu
+2024-08-03 11:00:43,824 INFO    HandlerThread:14124 [interfaces.py:finish():175] Joined disk
+2024-08-03 11:00:43,824 INFO    HandlerThread:14124 [interfaces.py:finish():175] Joined memory
+2024-08-03 11:00:43,824 INFO    HandlerThread:14124 [interfaces.py:finish():175] Joined network
+2024-08-03 11:00:43,825 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,825 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-08-03 11:00:43,825 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 3
+2024-08-03 11:00:43,825 DEBUG   SenderThread:14124 [sender.py:send():334] send: stats
+2024-08-03 11:00:43,826 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,826 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 3
+2024-08-03 11:00:43,828 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,828 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-08-03 11:00:43,828 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 4
+2024-08-03 11:00:43,828 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,828 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 4
+2024-08-03 11:00:43,829 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,829 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-08-03 11:00:43,829 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 5
+2024-08-03 11:00:43,830 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,830 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 5
+2024-08-03 11:00:43,831 DEBUG   SenderThread:14124 [sender.py:send():334] send: summary
+2024-08-03 11:00:43,831 INFO    SenderThread:14124 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-08-03 11:00:43,832 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,832 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-08-03 11:00:43,832 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 6
+2024-08-03 11:00:43,832 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,832 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 6
+2024-08-03 11:00:43,833 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,833 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-08-03 11:00:43,833 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 7
+2024-08-03 11:00:43,834 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: status_report
+2024-08-03 11:00:43,834 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:43,834 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 7
+2024-08-03 11:00:43,835 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:43,835 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-08-03 11:00:43,970 INFO    Thread-12 :14124 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-summary.json
+2024-08-03 11:00:44,214 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 8
+2024-08-03 11:00:44,215 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:44,215 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 8
+2024-08-03 11:00:44,216 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:44,216 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-08-03 11:00:44,216 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 9
+2024-08-03 11:00:44,217 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:44,217 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 9
+2024-08-03 11:00:44,218 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:44,218 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-08-03 11:00:44,218 INFO    SenderThread:14124 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-08-03 11:00:44,810 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: poll_exit
+2024-08-03 11:00:44,973 INFO    SenderThread:14124 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/output.log
+2024-08-03 11:00:44,974 INFO    SenderThread:14124 [dir_watcher.py:finish():392] scan: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files
+2024-08-03 11:00:44,974 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/requirements.txt requirements.txt
+2024-08-03 11:00:44,974 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-summary.json wandb-summary.json
+2024-08-03 11:00:44,975 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/diff.patch diff.patch
+2024-08-03 11:00:44,975 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/config.yaml config.yaml
+2024-08-03 11:00:44,975 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/output.log output.log
+2024-08-03 11:00:44,975 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/conda-environment.yaml conda-environment.yaml
+2024-08-03 11:00:44,975 INFO    SenderThread:14124 [dir_watcher.py:finish():406] scan save: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-metadata.json wandb-metadata.json
+2024-08-03 11:00:44,976 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 10
+2024-08-03 11:00:44,976 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: poll_exit
+2024-08-03 11:00:44,985 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:44,985 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 10
+2024-08-03 11:00:44,990 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:44,990 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-08-03 11:00:44,991 INFO    SenderThread:14124 [file_pusher.py:finish():160] shutting down file pusher
+2024-08-03 11:00:45,812 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: poll_exit
+2024-08-03 11:00:45,813 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: poll_exit
+2024-08-03 11:00:45,859 INFO    Thread-17 :14124 [upload_job.py:push():143] Uploaded file /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/requirements.txt
+2024-08-03 11:00:45,868 INFO    Thread-18 :14124 [upload_job.py:push():143] Uploaded file /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/wandb-summary.json
+2024-08-03 11:00:45,872 INFO    Thread-19 :14124 [upload_job.py:push():143] Uploaded file /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/config.yaml
+2024-08-03 11:00:45,877 INFO    Thread-21 :14124 [upload_job.py:push():143] Uploaded file /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/conda-environment.yaml
+2024-08-03 11:00:45,902 INFO    Thread-20 :14124 [upload_job.py:push():143] Uploaded file /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/files/output.log
+2024-08-03 11:00:46,103 INFO    Thread-11 :14124 [sender.py:transition_state():585] send defer: 11
+2024-08-03 11:00:46,104 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:46,104 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 11
+2024-08-03 11:00:46,105 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:46,105 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-08-03 11:00:46,105 INFO    SenderThread:14124 [file_pusher.py:join():165] waiting for file pusher
+2024-08-03 11:00:46,105 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 12
+2024-08-03 11:00:46,105 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:46,106 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 12
+2024-08-03 11:00:46,106 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:46,106 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-08-03 11:00:46,377 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 13
+2024-08-03 11:00:46,378 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:46,378 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 13
+2024-08-03 11:00:46,379 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:46,379 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-08-03 11:00:46,379 INFO    SenderThread:14124 [sender.py:transition_state():585] send defer: 14
+2024-08-03 11:00:46,380 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: defer
+2024-08-03 11:00:46,380 INFO    HandlerThread:14124 [handler.py:handle_request_defer():170] handle defer: 14
+2024-08-03 11:00:46,382 DEBUG   SenderThread:14124 [sender.py:send():334] send: final
+2024-08-03 11:00:46,382 DEBUG   SenderThread:14124 [sender.py:send():334] send: footer
+2024-08-03 11:00:46,382 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: defer
+2024-08-03 11:00:46,382 INFO    SenderThread:14124 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-08-03 11:00:46,383 DEBUG   HandlerThread:14124 [handler.py:handle_request():144] handle_request: poll_exit
+2024-08-03 11:00:46,385 DEBUG   SenderThread:14124 [sender.py:send_request():361] send_request: poll_exit
+2024-08-03 11:00:51,672 WARNING StreamThr :14124 [internal.py:is_dead():415] Internal process exiting, parent pid 13889 disappeared
+2024-08-03 11:00:51,672 ERROR   StreamThr :14124 [internal.py:wandb_internal():153] Internal process shutdown.
+2024-08-03 11:00:52,385 INFO    HandlerThread:14124 [handler.py:finish():841] shutting down handler
+2024-08-03 11:00:52,386 INFO    WriterThread:14124 [datastore.py:close():299] close: /home/lucas/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240803_105338-542scwqd/run-542scwqd.wandb
+2024-08-03 11:00:52,387 INFO    SenderThread:14124 [sender.py:finish():1491] shutting down sender
+2024-08-03 11:00:52,387 INFO    SenderThread:14124 [file_pusher.py:finish():160] shutting down file pusher
+2024-08-03 11:00:52,387 INFO    SenderThread:14124 [file_pusher.py:join():165] waiting for file pusher

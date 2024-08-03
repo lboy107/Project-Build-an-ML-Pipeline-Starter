@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9bfd7e8cbbbb457c8218539de2777c0f/artifacts
+end_time: 1722713534226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bfd7e8cbbbb457c8218539de2777c0f
+run_name: gaudy-deer-516
+run_uuid: 9bfd7e8cbbbb457c8218539de2777c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713530824
+status: 4
+tags: []
+user_id: lucas

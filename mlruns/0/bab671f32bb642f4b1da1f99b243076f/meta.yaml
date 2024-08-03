@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bab671f32bb642f4b1da1f99b243076f/artifacts
+end_time: 1722714642234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bab671f32bb642f4b1da1f99b243076f
+run_name: funny-panda-366
+run_uuid: bab671f32bb642f4b1da1f99b243076f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722714348454
+status: 3
+tags: []
+user_id: lucas

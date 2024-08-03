@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a23c2cc5841a4ac48cb08596ffee2dac/artifacts
+end_time: 1722705715405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23c2cc5841a4ac48cb08596ffee2dac
+run_name: orderly-newt-800
+run_uuid: a23c2cc5841a4ac48cb08596ffee2dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722705705948
+status: 4
+tags: []
+user_id: lucas

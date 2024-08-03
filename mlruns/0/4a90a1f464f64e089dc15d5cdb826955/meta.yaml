@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4a90a1f464f64e089dc15d5cdb826955/artifacts
+end_time: 1722705588967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a90a1f464f64e089dc15d5cdb826955
+run_name: spiffy-bear-202
+run_uuid: 4a90a1f464f64e089dc15d5cdb826955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722705579901
+status: 4
+tags: []
+user_id: lucas

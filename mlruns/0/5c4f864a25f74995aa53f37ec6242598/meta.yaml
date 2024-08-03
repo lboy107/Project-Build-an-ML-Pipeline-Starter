@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c4f864a25f74995aa53f37ec6242598/artifacts
+end_time: 1722714218142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c4f864a25f74995aa53f37ec6242598
+run_name: grandiose-wren-347
+run_uuid: 5c4f864a25f74995aa53f37ec6242598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722714178381
+status: 3
+tags: []
+user_id: lucas

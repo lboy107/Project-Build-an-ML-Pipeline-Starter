@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a7c5dece1a0346ad9335e0b055482973/artifacts
+end_time: 1722641921685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7c5dece1a0346ad9335e0b055482973
+run_name: receptive-sloth-633
+run_uuid: a7c5dece1a0346ad9335e0b055482973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722641751025
+status: 4
+tags: []
+user_id: lucas

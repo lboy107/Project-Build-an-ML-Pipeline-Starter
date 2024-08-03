@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/54bd81fa7b1e4f8488bcd348a436c4a3/artifacts
+end_time: 1722643177805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54bd81fa7b1e4f8488bcd348a436c4a3
+run_name: marvelous-bee-165
+run_uuid: 54bd81fa7b1e4f8488bcd348a436c4a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643153923
+status: 4
+tags: []
+user_id: lucas

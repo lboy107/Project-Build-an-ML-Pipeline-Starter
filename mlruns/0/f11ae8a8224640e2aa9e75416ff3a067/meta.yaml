@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f11ae8a8224640e2aa9e75416ff3a067/artifacts
+end_time: 1722713773801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f11ae8a8224640e2aa9e75416ff3a067
+run_name: overjoyed-fly-119
+run_uuid: f11ae8a8224640e2aa9e75416ff3a067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713750044
+status: 4
+tags: []
+user_id: lucas

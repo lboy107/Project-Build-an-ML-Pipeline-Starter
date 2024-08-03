@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/708f8c24e6b54109b63863b17b1462ba/artifacts
+end_time: 1722713354427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 708f8c24e6b54109b63863b17b1462ba
+run_name: polite-sponge-991
+run_uuid: 708f8c24e6b54109b63863b17b1462ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713281950
+status: 4
+tags: []
+user_id: lucas

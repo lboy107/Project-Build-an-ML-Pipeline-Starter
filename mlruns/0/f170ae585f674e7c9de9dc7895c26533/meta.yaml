@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f170ae585f674e7c9de9dc7895c26533/artifacts
+end_time: 1722719165121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f170ae585f674e7c9de9dc7895c26533
+run_name: worried-gnat-354
+run_uuid: f170ae585f674e7c9de9dc7895c26533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722719161272
+status: 3
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d458a4374114dcdbcb17d0b9deaf16f/artifacts
+end_time: 1722696679433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d458a4374114dcdbcb17d0b9deaf16f
+run_name: capable-newt-994
+run_uuid: 0d458a4374114dcdbcb17d0b9deaf16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722696653945
+status: 3
+tags: []
+user_id: lucas

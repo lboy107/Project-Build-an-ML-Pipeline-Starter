@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d3ec9f4123b04d23bc54dd01230f258e/artifacts
+end_time: 1722638816663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3ec9f4123b04d23bc54dd01230f258e
+run_name: unequaled-fowl-556
+run_uuid: d3ec9f4123b04d23bc54dd01230f258e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722638727914
+status: 4
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/832c84e5028a47598684cc31c4ab6a2c/artifacts
+end_time: 1722698566197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 832c84e5028a47598684cc31c4ab6a2c
+run_name: caring-eel-166
+run_uuid: 832c84e5028a47598684cc31c4ab6a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722698508375
+status: 3
+tags: []
+user_id: lucas

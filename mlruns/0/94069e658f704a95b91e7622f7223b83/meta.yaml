@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/94069e658f704a95b91e7622f7223b83/artifacts
+end_time: 1722718870904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94069e658f704a95b91e7622f7223b83
+run_name: fun-moth-203
+run_uuid: 94069e658f704a95b91e7622f7223b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722718762473
+status: 3
+tags: []
+user_id: lucas

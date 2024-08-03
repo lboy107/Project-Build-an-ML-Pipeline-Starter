@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3d8030c095c43608bc8bd1e1cbdf07d/artifacts
+end_time: 1722713534053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3d8030c095c43608bc8bd1e1cbdf07d
+run_name: aged-penguin-231
+run_uuid: c3d8030c095c43608bc8bd1e1cbdf07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713532801
+status: 4
+tags: []
+user_id: lucas

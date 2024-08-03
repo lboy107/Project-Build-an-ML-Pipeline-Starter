@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f1fbdf0bcd904d1a94aca920b4edc3b2/artifacts
+end_time: 1722706377338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1fbdf0bcd904d1a94aca920b4edc3b2
+run_name: enchanting-bear-434
+run_uuid: f1fbdf0bcd904d1a94aca920b4edc3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722706369665
+status: 3
+tags: []
+user_id: lucas

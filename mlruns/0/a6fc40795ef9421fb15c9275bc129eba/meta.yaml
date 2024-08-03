@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6fc40795ef9421fb15c9275bc129eba/artifacts
+end_time: 1722705715211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6fc40795ef9421fb15c9275bc129eba
+run_name: burly-foal-63
+run_uuid: a6fc40795ef9421fb15c9275bc129eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722705707741
+status: 4
+tags: []
+user_id: lucas

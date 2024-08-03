@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7d710910d9544bb386f68873f3d18123/artifacts
+end_time: 1722713354229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d710910d9544bb386f68873f3d18123
+run_name: handsome-vole-264
+run_uuid: 7d710910d9544bb386f68873f3d18123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713284595
+status: 4
+tags: []
+user_id: lucas

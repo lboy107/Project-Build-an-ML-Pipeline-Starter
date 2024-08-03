@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a2b10b1226bf4c08af30c08f041e1f75/artifacts
+end_time: 1722706909825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2b10b1226bf4c08af30c08f041e1f75
+run_name: masked-shrimp-168
+run_uuid: a2b10b1226bf4c08af30c08f041e1f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722706838817
+status: 3
+tags: []
+user_id: lucas

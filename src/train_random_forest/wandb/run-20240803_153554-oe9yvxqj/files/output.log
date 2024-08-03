@@ -1,0 +1,21 @@
+2024-08-03 15:35:56,957 Minimum price: 0, Maximum price: 10000
+2024-08-03 15:35:56,966 Preparing sklearn pipeline
+2024-08-03 15:35:56,967 Fitting
+2024-08-03 15:36:06,959 Scoring
+2024-08-03 15:36:07,074 Score: 0.07953537489579976
+2024-08-03 15:36:07,075 MAE: 65.63740625
+2024-08-03 15:36:07,075 Exporting model
+/home/lucas/miniconda3/envs/mlflow-38d125378780b724e555676b401b3ff88134b4f4/lib/python3.9/site-packages/mlflow/models/signature.py:130: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input)
+Traceback (most recent call last):
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 298, in <module>
+    go(args)
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 101, in go
+    mlflow.sklearn.save_model(
+  File "/home/lucas/miniconda3/envs/mlflow-38d125378780b724e555676b401b3ff88134b4f4/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 244, in save_model
+    _validate_and_prepare_target_save_path(path)
+  File "/home/lucas/miniconda3/envs/mlflow-38d125378780b724e555676b401b3ff88134b4f4/lib/python3.9/site-packages/mlflow/utils/model_utils.py", line 123, in _validate_and_prepare_target_save_path
+    os.makedirs(path, exist_ok=True)
+  File "/home/lucas/miniconda3/envs/mlflow-38d125378780b724e555676b401b3ff88134b4f4/lib/python3.9/os.py", line 225, in makedirs
+    mkdir(name, mode)
+NotADirectoryError: [Errno 20] Not a directory: './artifacts/trainval_data.csv:v0/tmp7f0ofefs/random_forest_dir'

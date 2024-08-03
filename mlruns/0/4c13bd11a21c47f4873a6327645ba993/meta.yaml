@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4c13bd11a21c47f4873a6327645ba993/artifacts
+end_time: 1722648459816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c13bd11a21c47f4873a6327645ba993
+run_name: shivering-horse-270
+run_uuid: 4c13bd11a21c47f4873a6327645ba993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648445026
+status: 3
+tags: []
+user_id: lucas

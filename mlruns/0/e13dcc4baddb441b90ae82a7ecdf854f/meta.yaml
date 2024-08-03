@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e13dcc4baddb441b90ae82a7ecdf854f/artifacts
+end_time: 1722641921378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e13dcc4baddb441b90ae82a7ecdf854f
+run_name: welcoming-whale-969
+run_uuid: e13dcc4baddb441b90ae82a7ecdf854f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722641831642
+status: 4
+tags: []
+user_id: lucas

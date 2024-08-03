@@ -1,0 +1,116 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-08-03T14:43:12.043649",
+    "startedAt": "2024-08-03T14:43:11.221203",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "eda.ipynb",
+    "root": "/home/lucas/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/lboy107/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "host": "DESKTOP-E71BQ95",
+    "username": "lucas",
+    "executable": "/home/lucas/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 15.321510314941406
+    },
+    "memory": {
+        "total": 15.48470687866211
+    }
+}

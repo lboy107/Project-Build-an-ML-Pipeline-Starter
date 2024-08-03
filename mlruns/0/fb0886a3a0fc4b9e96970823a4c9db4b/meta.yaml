@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fb0886a3a0fc4b9e96970823a4c9db4b/artifacts
+end_time: 1722718871155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb0886a3a0fc4b9e96970823a4c9db4b
+run_name: bedecked-seal-572
+run_uuid: fb0886a3a0fc4b9e96970823a4c9db4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722718606801
+status: 3
+tags: []
+user_id: lucas

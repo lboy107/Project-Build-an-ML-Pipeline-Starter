@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88ddc8755aaa443bae1af04de61bc92b/artifacts
+end_time: 1722713773633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ddc8755aaa443bae1af04de61bc92b
+run_name: marvelous-dog-515
+run_uuid: 88ddc8755aaa443bae1af04de61bc92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722713751992
+status: 4
+tags: []
+user_id: lucas

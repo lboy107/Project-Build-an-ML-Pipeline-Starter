@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16d9f01825d047cbab3d7125f38139ff/artifacts
+end_time: 1722639733779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16d9f01825d047cbab3d7125f38139ff
+run_name: nimble-roo-504
+run_uuid: 16d9f01825d047cbab3d7125f38139ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722639643056
+status: 4
+tags: []
+user_id: lucas

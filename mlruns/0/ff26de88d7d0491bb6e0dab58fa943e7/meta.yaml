@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff26de88d7d0491bb6e0dab58fa943e7/artifacts
+end_time: 1722705589159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff26de88d7d0491bb6e0dab58fa943e7
+run_name: rare-bear-426
+run_uuid: ff26de88d7d0491bb6e0dab58fa943e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722705577232
+status: 4
+tags: []
+user_id: lucas

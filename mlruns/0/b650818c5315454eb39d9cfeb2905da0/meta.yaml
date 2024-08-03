@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b650818c5315454eb39d9cfeb2905da0/artifacts
+end_time: 1722639281984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b650818c5315454eb39d9cfeb2905da0
+run_name: unleashed-wolf-663
+run_uuid: b650818c5315454eb39d9cfeb2905da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722639209153
+status: 4
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/122b1151de274ac5bd920f4add1b7a8b/artifacts
+end_time: 1722641958820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 122b1151de274ac5bd920f4add1b7a8b
+run_name: traveling-croc-952
+run_uuid: 122b1151de274ac5bd920f4add1b7a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722641929810
+status: 4
+tags: []
+user_id: lucas

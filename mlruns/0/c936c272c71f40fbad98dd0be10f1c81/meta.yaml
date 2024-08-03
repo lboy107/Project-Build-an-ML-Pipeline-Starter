@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c936c272c71f40fbad98dd0be10f1c81/artifacts
+end_time: 1722698566402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c936c272c71f40fbad98dd0be10f1c81
+run_name: judicious-hawk-162
+run_uuid: c936c272c71f40fbad98dd0be10f1c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722698503539
+status: 3
+tags: []
+user_id: lucas

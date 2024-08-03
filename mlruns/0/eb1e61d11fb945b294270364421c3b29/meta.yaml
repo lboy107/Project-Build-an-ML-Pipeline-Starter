@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb1e61d11fb945b294270364421c3b29/artifacts
+end_time: 1722641334252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1e61d11fb945b294270364421c3b29
+run_name: valuable-dog-916
+run_uuid: eb1e61d11fb945b294270364421c3b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722641241450
+status: 4
+tags: []
+user_id: lucas

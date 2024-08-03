@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77e74d85659d4ad09e1e5ce2ffe7c240/artifacts
+end_time: 1722706377462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e74d85659d4ad09e1e5ce2ffe7c240
+run_name: melodic-kit-957
+run_uuid: 77e74d85659d4ad09e1e5ce2ffe7c240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722706367089
+status: 3
+tags: []
+user_id: lucas

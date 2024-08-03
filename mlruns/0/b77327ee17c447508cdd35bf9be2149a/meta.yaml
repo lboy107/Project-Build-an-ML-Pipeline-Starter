@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b77327ee17c447508cdd35bf9be2149a/artifacts
+end_time: 1722639734105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b77327ee17c447508cdd35bf9be2149a
+run_name: puzzled-dolphin-318
+run_uuid: b77327ee17c447508cdd35bf9be2149a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722639566173
+status: 4
+tags: []
+user_id: lucas

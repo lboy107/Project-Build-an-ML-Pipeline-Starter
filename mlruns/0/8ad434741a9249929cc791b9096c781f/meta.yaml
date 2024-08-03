@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8ad434741a9249929cc791b9096c781f/artifacts
+end_time: 1722714378779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ad434741a9249929cc791b9096c781f
+run_name: dashing-wren-443
+run_uuid: 8ad434741a9249929cc791b9096c781f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722714350436
+status: 3
+tags: []
+user_id: lucas

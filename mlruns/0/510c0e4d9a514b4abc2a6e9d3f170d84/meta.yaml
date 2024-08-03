@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/510c0e4d9a514b4abc2a6e9d3f170d84/artifacts
+end_time: 1722648459941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510c0e4d9a514b4abc2a6e9d3f170d84
+run_name: colorful-wasp-638
+run_uuid: 510c0e4d9a514b4abc2a6e9d3f170d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648441751
+status: 3
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4415c183aeb4429a3b2ae156f74b142/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4415c183aeb4429a3b2ae156f74b142
+run_name: redolent-croc-433
+run_uuid: f4415c183aeb4429a3b2ae156f74b142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722714218242
+status: 1
+tags: []
+user_id: lucas
