@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bfd72a1f6833403aa20cec3db511daa4/artifacts
+end_time: 1722730519871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfd72a1f6833403aa20cec3db511daa4
+run_name: clumsy-dolphin-904
+run_uuid: bfd72a1f6833403aa20cec3db511daa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730510761
+status: 3
+tags: []
+user_id: lucas

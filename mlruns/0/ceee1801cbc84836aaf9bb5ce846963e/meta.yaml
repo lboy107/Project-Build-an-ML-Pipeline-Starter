@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ceee1801cbc84836aaf9bb5ce846963e/artifacts
+end_time: 1722731194606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ceee1801cbc84836aaf9bb5ce846963e
+run_name: bouncy-elk-38
+run_uuid: ceee1801cbc84836aaf9bb5ce846963e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722731185362
+status: 3
+tags: []
+user_id: lucas

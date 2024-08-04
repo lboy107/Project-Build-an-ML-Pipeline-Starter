@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f0c2633374b34240845c6c4d2579fa9e/artifacts
+end_time: 1722731210520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0c2633374b34240845c6c4d2579fa9e
+run_name: exultant-bat-624
+run_uuid: f0c2633374b34240845c6c4d2579fa9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722731203294
+status: 4
+tags: []
+user_id: lucas

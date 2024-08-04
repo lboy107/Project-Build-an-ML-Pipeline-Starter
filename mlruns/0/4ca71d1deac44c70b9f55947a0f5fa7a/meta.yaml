@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ca71d1deac44c70b9f55947a0f5fa7a/artifacts
+end_time: 1722730144254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca71d1deac44c70b9f55947a0f5fa7a
+run_name: unruly-squid-650
+run_uuid: 4ca71d1deac44c70b9f55947a0f5fa7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730132969
+status: 3
+tags: []
+user_id: lucas

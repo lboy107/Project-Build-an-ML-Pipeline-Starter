@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63667a6a4db9476e8c0d1851dc0c6868/artifacts
+end_time: 1722731290929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63667a6a4db9476e8c0d1851dc0c6868
+run_name: amazing-ape-6
+run_uuid: 63667a6a4db9476e8c0d1851dc0c6868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722731283589
+status: 4
+tags: []
+user_id: lucas

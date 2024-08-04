@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6f903eb51dc43ddbb76b4cc2bf4e29b/artifacts
+end_time: 1722730676243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6f903eb51dc43ddbb76b4cc2bf4e29b
+run_name: redolent-hog-877
+run_uuid: a6f903eb51dc43ddbb76b4cc2bf4e29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730667110
+status: 3
+tags: []
+user_id: lucas

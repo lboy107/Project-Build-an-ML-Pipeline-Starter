@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9514bb6a6ca14fb1a5a3e7cc979a359f/artifacts
+end_time: 1722730153081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9514bb6a6ca14fb1a5a3e7cc979a359f
+run_name: popular-sheep-947
+run_uuid: 9514bb6a6ca14fb1a5a3e7cc979a359f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730121111
+status: 4
+tags: []
+user_id: lucas

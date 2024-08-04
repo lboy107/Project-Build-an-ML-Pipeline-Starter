@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b674a9a99e46497b8574e61cd77aaf47/artifacts
+end_time: 1722730539308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b674a9a99e46497b8574e61cd77aaf47
+run_name: placid-sloth-316
+run_uuid: b674a9a99e46497b8574e61cd77aaf47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730508233
+status: 4
+tags: []
+user_id: lucas

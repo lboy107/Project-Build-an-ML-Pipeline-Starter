@@ -1,0 +1,16 @@
+2024-08-03 20:06:46,020 Fetching raw dataset.
+2024-08-03 20:06:46,782 Cleaning data.
+Traceback (most recent call last):
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 102, in <module>
+    go(args)
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 38, in go
+    df = df.drop(~df['longitude'].between(-74.25, -73.50) & ~df['latitude'].between(40.5, 41.2), inplace=True)
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/frame.py", line 4308, in drop
+    return super().drop(
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/generic.py", line 4153, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/generic.py", line 4188, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5591, in drop
+    raise KeyError(f"{labels[mask]} not found in axis")
+KeyError: '[False False False ... False False False] not found in axis'

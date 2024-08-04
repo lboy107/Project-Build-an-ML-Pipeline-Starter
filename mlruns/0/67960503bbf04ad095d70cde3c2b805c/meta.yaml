@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/67960503bbf04ad095d70cde3c2b805c/artifacts
+end_time: 1722730013290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67960503bbf04ad095d70cde3c2b805c
+run_name: dazzling-skunk-161
+run_uuid: 67960503bbf04ad095d70cde3c2b805c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730002861
+status: 4
+tags: []
+user_id: lucas

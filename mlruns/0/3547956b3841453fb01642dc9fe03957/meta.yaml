@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3547956b3841453fb01642dc9fe03957/artifacts
+end_time: 1722730539132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3547956b3841453fb01642dc9fe03957
+run_name: rogue-bass-692
+run_uuid: 3547956b3841453fb01642dc9fe03957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730528507
+status: 4
+tags: []
+user_id: lucas

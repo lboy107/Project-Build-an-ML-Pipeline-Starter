@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1d12e4db98904b33896084d9dfb15a81/artifacts
+end_time: 1722730132958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d12e4db98904b33896084d9dfb15a81
+run_name: clumsy-bird-352
+run_uuid: 1d12e4db98904b33896084d9dfb15a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730123642
+status: 3
+tags: []
+user_id: lucas

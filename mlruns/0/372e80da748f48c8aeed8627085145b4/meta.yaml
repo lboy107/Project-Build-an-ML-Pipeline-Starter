@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/372e80da748f48c8aeed8627085145b4/artifacts
+end_time: 1722730695372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 372e80da748f48c8aeed8627085145b4
+run_name: wise-slug-598
+run_uuid: 372e80da748f48c8aeed8627085145b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722730664662
+status: 4
+tags: []
+user_id: lucas
