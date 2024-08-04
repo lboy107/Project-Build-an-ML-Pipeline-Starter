@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/10ccd145a03d4d85a1d4cb6f46e10b45/artifacts
+end_time: 1722728220732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ccd145a03d4d85a1d4cb6f46e10b45
+run_name: capricious-hawk-158
+run_uuid: 10ccd145a03d4d85a1d4cb6f46e10b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728211344
+status: 3
+tags: []
+user_id: lucas

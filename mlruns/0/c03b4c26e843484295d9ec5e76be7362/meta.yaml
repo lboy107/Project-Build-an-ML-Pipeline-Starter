@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c03b4c26e843484295d9ec5e76be7362/artifacts
+end_time: 1722728047621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c03b4c26e843484295d9ec5e76be7362
+run_name: carefree-lark-582
+run_uuid: c03b4c26e843484295d9ec5e76be7362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728038729
+status: 4
+tags: []
+user_id: lucas

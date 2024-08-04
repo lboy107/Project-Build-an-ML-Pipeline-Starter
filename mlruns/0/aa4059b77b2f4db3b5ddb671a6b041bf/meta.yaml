@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa4059b77b2f4db3b5ddb671a6b041bf/artifacts
+end_time: 1722721419789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4059b77b2f4db3b5ddb671a6b041bf
+run_name: receptive-bird-94
+run_uuid: aa4059b77b2f4db3b5ddb671a6b041bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722721403375
+status: 3
+tags: []
+user_id: lucas

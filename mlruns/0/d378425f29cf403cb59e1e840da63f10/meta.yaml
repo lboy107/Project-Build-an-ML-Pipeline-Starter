@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d378425f29cf403cb59e1e840da63f10/artifacts
+end_time: 1722722282525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d378425f29cf403cb59e1e840da63f10
+run_name: upbeat-shrimp-372
+run_uuid: d378425f29cf403cb59e1e840da63f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722266066
+status: 3
+tags: []
+user_id: lucas

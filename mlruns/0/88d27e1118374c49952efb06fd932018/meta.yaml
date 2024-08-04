@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88d27e1118374c49952efb06fd932018/artifacts
+end_time: 1722728237433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88d27e1118374c49952efb06fd932018
+run_name: abrasive-snipe-357
+run_uuid: 88d27e1118374c49952efb06fd932018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728229352
+status: 4
+tags: []
+user_id: lucas

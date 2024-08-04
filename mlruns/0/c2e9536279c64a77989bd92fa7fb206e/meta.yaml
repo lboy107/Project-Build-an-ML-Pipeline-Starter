@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c2e9536279c64a77989bd92fa7fb206e/artifacts
+end_time: 1722722156538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2e9536279c64a77989bd92fa7fb206e
+run_name: kindly-worm-973
+run_uuid: c2e9536279c64a77989bd92fa7fb206e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722145745
+status: 4
+tags: []
+user_id: lucas

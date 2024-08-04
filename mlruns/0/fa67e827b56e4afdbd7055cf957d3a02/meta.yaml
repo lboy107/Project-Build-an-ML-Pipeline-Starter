@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fa67e827b56e4afdbd7055cf957d3a02/artifacts
+end_time: 1722728029700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa67e827b56e4afdbd7055cf957d3a02
+run_name: agreeable-robin-901
+run_uuid: fa67e827b56e4afdbd7055cf957d3a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728019242
+status: 3
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/da1f6ad857e141dda443cd3d34155c70/artifacts
+end_time: 1722720864833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da1f6ad857e141dda443cd3d34155c70
+run_name: able-trout-806
+run_uuid: da1f6ad857e141dda443cd3d34155c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720824611
+status: 4
+tags: []
+user_id: lucas

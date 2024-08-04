@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b35799a72060460aa90a1e39603c5e5a/artifacts
+end_time: 1722728808123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b35799a72060460aa90a1e39603c5e5a
+run_name: shivering-fish-598
+run_uuid: b35799a72060460aa90a1e39603c5e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728797414
+status: 3
+tags: []
+user_id: lucas

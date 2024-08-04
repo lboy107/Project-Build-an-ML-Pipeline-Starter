@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95c5a0d95a2741c2ae3867cbb53bc7e7/artifacts
+end_time: 1722722896199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c5a0d95a2741c2ae3867cbb53bc7e7
+run_name: grandiose-foal-510
+run_uuid: 95c5a0d95a2741c2ae3867cbb53bc7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722885809
+status: 3
+tags: []
+user_id: lucas

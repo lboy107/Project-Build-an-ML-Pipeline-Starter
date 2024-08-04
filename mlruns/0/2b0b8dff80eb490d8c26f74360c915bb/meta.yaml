@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2b0b8dff80eb490d8c26f74360c915bb/artifacts
+end_time: 1722722411114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b0b8dff80eb490d8c26f74360c915bb
+run_name: industrious-koi-873
+run_uuid: 2b0b8dff80eb490d8c26f74360c915bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722402684
+status: 4
+tags: []
+user_id: lucas

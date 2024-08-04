@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ca2043bc21b241beb5565e62d661fe47/artifacts
+end_time: 1722722207653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca2043bc21b241beb5565e62d661fe47
+run_name: resilient-pug-298
+run_uuid: ca2043bc21b241beb5565e62d661fe47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722193115
+status: 3
+tags: []
+user_id: lucas

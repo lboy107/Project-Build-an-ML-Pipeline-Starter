@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cf70ad891c04a0ab6c648cee8feba36/artifacts
+end_time: 1722729557642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf70ad891c04a0ab6c648cee8feba36
+run_name: languid-trout-744
+run_uuid: 1cf70ad891c04a0ab6c648cee8feba36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722729548811
+status: 3
+tags: []
+user_id: lucas

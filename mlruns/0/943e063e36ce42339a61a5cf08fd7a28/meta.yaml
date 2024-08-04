@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/943e063e36ce42339a61a5cf08fd7a28/artifacts
+end_time: 1722728604955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943e063e36ce42339a61a5cf08fd7a28
+run_name: stately-snake-472
+run_uuid: 943e063e36ce42339a61a5cf08fd7a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728595702
+status: 3
+tags: []
+user_id: lucas

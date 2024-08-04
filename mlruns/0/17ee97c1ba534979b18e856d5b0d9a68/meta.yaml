@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/17ee97c1ba534979b18e856d5b0d9a68/artifacts
+end_time: 1722720317811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ee97c1ba534979b18e856d5b0d9a68
+run_name: lyrical-bird-659
+run_uuid: 17ee97c1ba534979b18e856d5b0d9a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720261714
+status: 4
+tags: []
+user_id: lucas

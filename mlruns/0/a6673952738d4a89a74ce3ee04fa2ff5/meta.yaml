@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6673952738d4a89a74ce3ee04fa2ff5/artifacts
+end_time: 1722728613566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6673952738d4a89a74ce3ee04fa2ff5
+run_name: upset-yak-628
+run_uuid: a6673952738d4a89a74ce3ee04fa2ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728604966
+status: 3
+tags: []
+user_id: lucas

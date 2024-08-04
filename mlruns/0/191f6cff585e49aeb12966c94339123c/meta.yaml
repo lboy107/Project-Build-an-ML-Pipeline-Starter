@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/191f6cff585e49aeb12966c94339123c/artifacts
+end_time: 1722728047805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191f6cff585e49aeb12966c94339123c
+run_name: unique-midge-283
+run_uuid: 191f6cff585e49aeb12966c94339123c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728015702
+status: 4
+tags: []
+user_id: lucas

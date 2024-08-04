@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b8bed80693c64f54bd332a3a8dbef2a0/artifacts
+end_time: 1722728137711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8bed80693c64f54bd332a3a8dbef2a0
+run_name: thundering-sow-622
+run_uuid: b8bed80693c64f54bd332a3a8dbef2a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728127790
+status: 3
+tags: []
+user_id: lucas

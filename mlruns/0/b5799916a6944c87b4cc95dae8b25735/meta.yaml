@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5799916a6944c87b4cc95dae8b25735/artifacts
+end_time: 1722722707136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5799916a6944c87b4cc95dae8b25735
+run_name: unleashed-horse-764
+run_uuid: b5799916a6944c87b4cc95dae8b25735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722692759
+status: 3
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/28137dd47c004492b2d6ddd493ad43f1/artifacts
+end_time: 1722722311475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28137dd47c004492b2d6ddd493ad43f1
+run_name: bemused-sheep-949
+run_uuid: 28137dd47c004492b2d6ddd493ad43f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722294362
+status: 3
+tags: []
+user_id: lucas

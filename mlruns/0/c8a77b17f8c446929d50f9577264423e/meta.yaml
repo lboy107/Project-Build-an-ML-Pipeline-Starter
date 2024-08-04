@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8a77b17f8c446929d50f9577264423e/artifacts
+end_time: 1722722219812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8a77b17f8c446929d50f9577264423e
+run_name: monumental-shark-259
+run_uuid: c8a77b17f8c446929d50f9577264423e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722188917
+status: 4
+tags: []
+user_id: lucas

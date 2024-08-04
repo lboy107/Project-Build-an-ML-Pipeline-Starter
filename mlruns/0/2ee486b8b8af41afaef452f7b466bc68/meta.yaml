@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2ee486b8b8af41afaef452f7b466bc68/artifacts
+end_time: 1722720561095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ee486b8b8af41afaef452f7b466bc68
+run_name: powerful-crane-421
+run_uuid: 2ee486b8b8af41afaef452f7b466bc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720550969
+status: 4
+tags: []
+user_id: lucas

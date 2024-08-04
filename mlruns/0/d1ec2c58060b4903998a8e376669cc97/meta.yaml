@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1ec2c58060b4903998a8e376669cc97/artifacts
+end_time: 1722722219445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ec2c58060b4903998a8e376669cc97
+run_name: big-grouse-202
+run_uuid: d1ec2c58060b4903998a8e376669cc97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722207671
+status: 4
+tags: []
+user_id: lucas

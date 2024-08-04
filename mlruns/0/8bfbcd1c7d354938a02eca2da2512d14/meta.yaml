@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8bfbcd1c7d354938a02eca2da2512d14/artifacts
+end_time: 1722722266044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bfbcd1c7d354938a02eca2da2512d14
+run_name: upbeat-moth-525
+run_uuid: 8bfbcd1c7d354938a02eca2da2512d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722252490
+status: 3
+tags: []
+user_id: lucas

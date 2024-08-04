@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f295f1a3c5fc4887b3457575c492dfa0/artifacts
+end_time: 1722722402675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f295f1a3c5fc4887b3457575c492dfa0
+run_name: receptive-kit-943
+run_uuid: f295f1a3c5fc4887b3457575c492dfa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722389417
+status: 3
+tags: []
+user_id: lucas

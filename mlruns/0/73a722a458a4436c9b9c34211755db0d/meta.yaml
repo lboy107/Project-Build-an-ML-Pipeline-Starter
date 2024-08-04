@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73a722a458a4436c9b9c34211755db0d/artifacts
+end_time: 1722728970422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73a722a458a4436c9b9c34211755db0d
+run_name: vaunted-bear-421
+run_uuid: 73a722a458a4436c9b9c34211755db0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728960112
+status: 3
+tags: []
+user_id: lucas

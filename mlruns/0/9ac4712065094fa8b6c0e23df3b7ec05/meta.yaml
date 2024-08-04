@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ac4712065094fa8b6c0e23df3b7ec05/artifacts
+end_time: 1722722626170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ac4712065094fa8b6c0e23df3b7ec05
+run_name: legendary-pug-920
+run_uuid: 9ac4712065094fa8b6c0e23df3b7ec05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722615971
+status: 3
+tags: []
+user_id: lucas

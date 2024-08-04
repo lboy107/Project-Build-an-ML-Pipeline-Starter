@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48eaa29cd02c472f81483fce607d7066/artifacts
+end_time: 1722729548799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48eaa29cd02c472f81483fce607d7066
+run_name: treasured-hare-202
+run_uuid: 48eaa29cd02c472f81483fce607d7066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722729538722
+status: 3
+tags: []
+user_id: lucas

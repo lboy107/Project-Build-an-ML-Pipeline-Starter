@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cbab61412d7b4dfc8073698fecc19ab5/artifacts
+end_time: 1722729566344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbab61412d7b4dfc8073698fecc19ab5
+run_name: tasteful-shad-534
+run_uuid: cbab61412d7b4dfc8073698fecc19ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722729557652
+status: 4
+tags: []
+user_id: lucas

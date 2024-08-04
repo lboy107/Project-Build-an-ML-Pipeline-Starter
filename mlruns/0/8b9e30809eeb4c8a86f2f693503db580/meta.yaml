@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8b9e30809eeb4c8a86f2f693503db580/artifacts
+end_time: 1722721897358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b9e30809eeb4c8a86f2f693503db580
+run_name: unique-shad-397
+run_uuid: 8b9e30809eeb4c8a86f2f693503db580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722721856061
+status: 4
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74b35b1183554021971ace3a3076c52c/artifacts
+end_time: 1722722913094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74b35b1183554021971ace3a3076c52c
+run_name: inquisitive-mole-948
+run_uuid: 74b35b1183554021971ace3a3076c52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722904856
+status: 4
+tags: []
+user_id: lucas

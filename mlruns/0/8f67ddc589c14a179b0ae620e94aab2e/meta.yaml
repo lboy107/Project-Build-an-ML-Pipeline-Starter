@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f67ddc589c14a179b0ae620e94aab2e/artifacts
+end_time: 1722720305153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f67ddc589c14a179b0ae620e94aab2e
+run_name: upset-skink-37
+run_uuid: 8f67ddc589c14a179b0ae620e94aab2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720285841
+status: 3
+tags: []
+user_id: lucas

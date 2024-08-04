@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8002ab30a63141a4b75c1fe72b91c64c/artifacts
+end_time: 1722728038719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8002ab30a63141a4b75c1fe72b91c64c
+run_name: flawless-colt-590
+run_uuid: 8002ab30a63141a4b75c1fe72b91c64c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728029712
+status: 3
+tags: []
+user_id: lucas

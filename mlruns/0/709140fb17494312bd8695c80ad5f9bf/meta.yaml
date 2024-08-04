@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/709140fb17494312bd8695c80ad5f9bf/artifacts
+end_time: 1722728146805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 709140fb17494312bd8695c80ad5f9bf
+run_name: glamorous-wren-87
+run_uuid: 709140fb17494312bd8695c80ad5f9bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728137723
+status: 3
+tags: []
+user_id: lucas

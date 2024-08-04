@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4161cc1f72964b738a8696d1177d38bf/artifacts
+end_time: 1722722350220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4161cc1f72964b738a8696d1177d38bf
+run_name: bouncy-perch-317
+run_uuid: 4161cc1f72964b738a8696d1177d38bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722248292
+status: 3
+tags: []
+user_id: lucas

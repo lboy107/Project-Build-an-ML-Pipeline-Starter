@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3943ddb75b4a4758a1e94223e385d0cf/artifacts
+end_time: 1722728237602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3943ddb75b4a4758a1e94223e385d0cf
+run_name: vaunted-smelt-842
+run_uuid: 3943ddb75b4a4758a1e94223e385d0cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728208858
+status: 4
+tags: []
+user_id: lucas

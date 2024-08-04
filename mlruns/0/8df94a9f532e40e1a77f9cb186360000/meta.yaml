@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8df94a9f532e40e1a77f9cb186360000/artifacts
+end_time: 1722728714298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df94a9f532e40e1a77f9cb186360000
+run_name: victorious-ape-513
+run_uuid: 8df94a9f532e40e1a77f9cb186360000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728635865
+status: 3
+tags: []
+user_id: lucas

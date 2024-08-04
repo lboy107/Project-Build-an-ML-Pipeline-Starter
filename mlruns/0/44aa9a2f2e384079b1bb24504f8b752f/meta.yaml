@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/44aa9a2f2e384079b1bb24504f8b752f/artifacts
+end_time: 1722722635491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44aa9a2f2e384079b1bb24504f8b752f
+run_name: likeable-trout-660
+run_uuid: 44aa9a2f2e384079b1bb24504f8b752f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722722613485
+status: 4
+tags: []
+user_id: lucas

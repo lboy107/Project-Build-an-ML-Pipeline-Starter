@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/885f7e170d2846fe830561088b04b537/artifacts
+end_time: 1722728989663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 885f7e170d2846fe830561088b04b537
+run_name: industrious-bee-595
+run_uuid: 885f7e170d2846fe830561088b04b537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728957624
+status: 4
+tags: []
+user_id: lucas

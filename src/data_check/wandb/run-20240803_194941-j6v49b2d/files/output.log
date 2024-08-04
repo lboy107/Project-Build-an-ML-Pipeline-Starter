@@ -1,0 +1,4 @@
+Rows that fail the boundary check:
+             id  ... availability_365
+14119  10830083  ...              364
+[1 rows x 16 columns]

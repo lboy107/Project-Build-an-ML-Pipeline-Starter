@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2dc79db42c9a4d7795f02f31246f774b/artifacts
+end_time: 1722721885336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dc79db42c9a4d7795f02f31246f774b
+run_name: orderly-croc-547
+run_uuid: 2dc79db42c9a4d7795f02f31246f774b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722721873147
+status: 3
+tags: []
+user_id: lucas

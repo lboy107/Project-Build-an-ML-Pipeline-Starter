@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8fe583fd7a224b0899bc5bde2f6d11d9/artifacts
+end_time: 1722728422077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fe583fd7a224b0899bc5bde2f6d11d9
+run_name: aged-kit-597
+run_uuid: 8fe583fd7a224b0899bc5bde2f6d11d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728413501
+status: 3
+tags: []
+user_id: lucas

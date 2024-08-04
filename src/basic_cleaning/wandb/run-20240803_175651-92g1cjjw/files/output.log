@@ -1,0 +1,14 @@
+2024-08-03 17:56:52,993 Fetching raw dataset.
+2024-08-03 17:56:53,740 Cleaning data.
+Traceback (most recent call last):
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 101, in <module>
+    go(args)
+  File "/home/lucas/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 37, in go
+    df = df[idx].copy()
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/frame.py", line 3011, in __getitem__
+    return self.where(key)
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/generic.py", line 9286, in where
+    return self._where(
+  File "/home/lucas/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/lib/python3.9/site-packages/pandas/core/generic.py", line 9043, in _where
+    raise ValueError(msg.format(dtype=dt))
+ValueError: Boolean array expected for the condition, not int64

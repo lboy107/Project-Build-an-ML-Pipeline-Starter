@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a33dbfce4ba341ffb42b2e6ed1477560/artifacts
+end_time: 1722720285809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33dbfce4ba341ffb42b2e6ed1477560
+run_name: amusing-squid-388
+run_uuid: a33dbfce4ba341ffb42b2e6ed1477560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720268016
+status: 3
+tags: []
+user_id: lucas

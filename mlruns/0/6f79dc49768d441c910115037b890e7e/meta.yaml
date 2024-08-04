@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6f79dc49768d441c910115037b890e7e/artifacts
+end_time: 1722728529272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f79dc49768d441c910115037b890e7e
+run_name: peaceful-duck-22
+run_uuid: 6f79dc49768d441c910115037b890e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728452324
+status: 3
+tags: []
+user_id: lucas

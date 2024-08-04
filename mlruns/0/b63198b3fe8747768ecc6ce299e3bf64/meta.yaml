@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b63198b3fe8747768ecc6ce299e3bf64/artifacts
+end_time: 1722728797404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b63198b3fe8747768ecc6ce299e3bf64
+run_name: rebellious-shoat-582
+run_uuid: b63198b3fe8747768ecc6ce299e3bf64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722728788168
+status: 3
+tags: []
+user_id: lucas

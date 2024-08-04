@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5039244ef3ee4ec48ccce4198ecd8d0f/artifacts
+end_time: 1722720864578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5039244ef3ee4ec48ccce4198ecd8d0f
+run_name: marvelous-ray-544
+run_uuid: 5039244ef3ee4ec48ccce4198ecd8d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722720853262
+status: 4
+tags: []
+user_id: lucas
