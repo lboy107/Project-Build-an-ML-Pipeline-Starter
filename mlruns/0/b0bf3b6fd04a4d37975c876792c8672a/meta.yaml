@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b0bf3b6fd04a4d37975c876792c8672a/artifacts
+end_time: 1723506807823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0bf3b6fd04a4d37975c876792c8672a
+run_name: abrasive-mole-325
+run_uuid: b0bf3b6fd04a4d37975c876792c8672a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723506797521
+status: 4
+tags: []
+user_id: lucas

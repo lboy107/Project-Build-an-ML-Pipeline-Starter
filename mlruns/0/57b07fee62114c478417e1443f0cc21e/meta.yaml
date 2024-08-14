@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57b07fee62114c478417e1443f0cc21e/artifacts
+end_time: 1723506564787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b07fee62114c478417e1443f0cc21e
+run_name: whimsical-shrew-118
+run_uuid: 57b07fee62114c478417e1443f0cc21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723506550489
+status: 4
+tags: []
+user_id: lucas

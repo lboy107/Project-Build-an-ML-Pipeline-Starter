@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fcd0e625c741471abcfebef1c3aefa9d/artifacts
+end_time: 1723506720413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcd0e625c741471abcfebef1c3aefa9d
+run_name: clumsy-trout-983
+run_uuid: fcd0e625c741471abcfebef1c3aefa9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723506707233
+status: 4
+tags: []
+user_id: lucas

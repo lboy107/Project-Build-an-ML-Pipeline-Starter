@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4f99a5253be47ac81ee9cea054a7569/artifacts
+end_time: 1723506785815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f99a5253be47ac81ee9cea054a7569
+run_name: dapper-mouse-609
+run_uuid: d4f99a5253be47ac81ee9cea054a7569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723506776201
+status: 3
+tags: []
+user_id: lucas

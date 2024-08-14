@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/986e1cd58a824871940f140db6d2c705/artifacts
+end_time: 1723595221847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 986e1cd58a824871940f140db6d2c705
+run_name: intelligent-crow-702
+run_uuid: 986e1cd58a824871940f140db6d2c705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723595213117
+status: 3
+tags: []
+user_id: lucas

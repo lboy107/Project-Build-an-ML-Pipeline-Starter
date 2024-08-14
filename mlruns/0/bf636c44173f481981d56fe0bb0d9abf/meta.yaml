@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf636c44173f481981d56fe0bb0d9abf/artifacts
+end_time: 1723595348982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf636c44173f481981d56fe0bb0d9abf
+run_name: bemused-rook-771
+run_uuid: bf636c44173f481981d56fe0bb0d9abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723595339649
+status: 3
+tags: []
+user_id: lucas

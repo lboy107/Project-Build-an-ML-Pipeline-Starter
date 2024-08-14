@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/613ae8036e64435f85e24411648d6507/artifacts
+end_time: 1723506807995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 613ae8036e64435f85e24411648d6507
+run_name: salty-snail-939
+run_uuid: 613ae8036e64435f85e24411648d6507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723506773522
+status: 4
+tags: []
+user_id: lucas

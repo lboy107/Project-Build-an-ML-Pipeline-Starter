@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/660f7a412b14434abd11644bdfcb9aad/artifacts
+end_time: 1723596955171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660f7a412b14434abd11644bdfcb9aad
+run_name: dapper-stork-512
+run_uuid: 660f7a412b14434abd11644bdfcb9aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596941987
+status: 3
+tags: []
+user_id: lucas

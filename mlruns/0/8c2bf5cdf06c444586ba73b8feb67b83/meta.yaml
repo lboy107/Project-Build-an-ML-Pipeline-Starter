@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c2bf5cdf06c444586ba73b8feb67b83/artifacts
+end_time: 1723594913667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c2bf5cdf06c444586ba73b8feb67b83
+run_name: carefree-horse-454
+run_uuid: 8c2bf5cdf06c444586ba73b8feb67b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594903643
+status: 3
+tags: []
+user_id: lucas

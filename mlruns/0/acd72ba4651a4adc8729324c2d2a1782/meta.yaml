@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acd72ba4651a4adc8729324c2d2a1782/artifacts
+end_time: 1723594750271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acd72ba4651a4adc8729324c2d2a1782
+run_name: bouncy-ant-965
+run_uuid: acd72ba4651a4adc8729324c2d2a1782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594741000
+status: 4
+tags: []
+user_id: lucas

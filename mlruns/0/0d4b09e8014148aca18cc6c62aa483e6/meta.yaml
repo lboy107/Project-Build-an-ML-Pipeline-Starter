@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d4b09e8014148aca18cc6c62aa483e6/artifacts
+end_time: 1722788016948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d4b09e8014148aca18cc6c62aa483e6
+run_name: inquisitive-gnat-421
+run_uuid: 0d4b09e8014148aca18cc6c62aa483e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722788006578
+status: 3
+tags: []
+user_id: lucas

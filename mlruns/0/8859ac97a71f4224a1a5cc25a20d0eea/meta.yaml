@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8859ac97a71f4224a1a5cc25a20d0eea/artifacts
+end_time: 1723594732089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8859ac97a71f4224a1a5cc25a20d0eea
+run_name: salty-lynx-793
+run_uuid: 8859ac97a71f4224a1a5cc25a20d0eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594721933
+status: 3
+tags: []
+user_id: lucas

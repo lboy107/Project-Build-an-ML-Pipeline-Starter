@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/44dd0be0965b4aedb2a46c7f5965cf3f/artifacts
+end_time: 1723595229421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44dd0be0965b4aedb2a46c7f5965cf3f
+run_name: crawling-lynx-953
+run_uuid: 44dd0be0965b4aedb2a46c7f5965cf3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723595200546
+status: 4
+tags: []
+user_id: lucas

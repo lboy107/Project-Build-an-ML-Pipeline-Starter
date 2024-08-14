@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lucas/Project-Build-an-ML-Pipeline-Starter/mlruns/0/718da8dac6cc466eb2ce913a138925cd/artifacts
+end_time: 1723594750452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 718da8dac6cc466eb2ce913a138925cd
+run_name: angry-elk-368
+run_uuid: 718da8dac6cc466eb2ce913a138925cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723594718427
+status: 4
+tags: []
+user_id: lucas
